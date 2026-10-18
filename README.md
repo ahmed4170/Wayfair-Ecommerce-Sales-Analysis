@@ -62,7 +62,7 @@ Order `status` takes three values: `completed`, `returned`, `canceled`.
 | **Impute missing unit prices** | Left-joined `products.list_price` and filled missing `order_items.unit_price` values with it. | Missing prices would silently turn into zero or NaN revenue. List price is the most defensible substitute. |
 | **Compute line-item revenue** | `item_revenue = quantity × unit_price − discount_amount` | Creates one consistent, discount-aware revenue measure at the lowest grain, so it can be rolled up by any dimension. |
 
-![chart](chart1_monthly_revenue.png)
+![chart](/images/chart1_monthly_revenue.png)
 
 ### 2. Metric Definition
 
