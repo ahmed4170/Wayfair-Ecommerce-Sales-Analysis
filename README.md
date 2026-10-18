@@ -127,7 +127,7 @@ Net revenue grew roughly **21% year over year**, from about **$848K in 2024 to a
 
 Furniture earns the most per order but also loses the most revenue to returns, which makes it the biggest hidden profitability risk.
 
-![Risk Matrix](/images/chart3_risk_matrix.pngchart3_risk_matrix.png)
+![Risk Matrix](/images/chart3_risk_matrix.png)
 
 ---
 
