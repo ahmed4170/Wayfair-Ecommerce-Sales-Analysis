@@ -1,4 +1,4 @@
-# Wayfaie Sales Analysis (2024 vs. 2025)
+# Wayfair Sales Analysis (2024 vs. 2025)
 
 An end-to-end analysis of an e-commerce home-goods retailer's sales data, covering data cleaning, revenue definition, seasonality, category performance, and return/cancellation risk. The goal is to turn raw transactional data into clear, actionable recommendations for the business.
 
